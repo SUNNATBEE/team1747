@@ -5,6 +5,16 @@ const App = () => {
     <div>
 
 
+      
+
+      Salom bolalar
+
+      
+<h1>lucy</h1>
+
+
+
+
       <h1>Jaloliddin2012</h1>
 
       Salom bolalar
@@ -27,6 +37,7 @@ const App = () => {
       <h2 className='bg-amber-600'>Safi</h2>
 
 <h1>Sunnatbek Branch</h1>
+
     </div>
   )
 }
