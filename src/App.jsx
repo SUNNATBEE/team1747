@@ -4,6 +4,14 @@ const App = () => {
   return (
     <div>
       Salom bolalar
+
+
+
+
+    <h1>Azizbek</h1>
+
+
+
     </div>
   )
 }
