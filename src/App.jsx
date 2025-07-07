@@ -4,12 +4,12 @@ const App = () => {
   return (
     <div>
 
-      lucy
+      
 
       Salom bolalar
 
       
-<h1>asdfijok</h1>
+<h1>lucy</h1>
 
 
     </div>
