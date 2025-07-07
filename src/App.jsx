@@ -4,8 +4,8 @@ const App = () => {
   return (
     <div>
       Salom bolalar
-
       <h2 className='bg-amber-600'>Safi</h2>
+<h1>Sunnatbek Branch</h1>
     </div>
   )
 }
