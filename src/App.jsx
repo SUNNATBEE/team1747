@@ -6,6 +6,7 @@ const App = () => {
       Salom bolalar
 
 <h1>Sunnatbek Branch</h1>
+<h1>Malumot qoshdim</h1>
 
     </div>
   )
