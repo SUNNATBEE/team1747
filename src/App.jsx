@@ -5,6 +5,7 @@ const App = () => {
     <div>
 
 
+
       
 
       Salom bolalar
@@ -28,6 +29,7 @@ const App = () => {
 
 
     <h1>Azizbek</h1>
+
 
 
 
